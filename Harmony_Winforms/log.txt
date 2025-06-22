@@ -1,0 +1,1633 @@
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui]
+Server starting...
+Server receive thread started
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_2519]
+Server started
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_2520]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_2521]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_2522]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_2523]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_2524]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_2525]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_2526]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_2527]
+Server starting...
+Server receive thread started
+Server started
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_1]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_2]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_3]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_4]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_5]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_6]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_7]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_8]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_9]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_10]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_11]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_12]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_13]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_14]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_15]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_16]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_17]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_18]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_19]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_20]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_21]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_22]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_23]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_24]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_25]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_26]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_27]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_28]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_29]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_30]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_31]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_32]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_33]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_34]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_35]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_36]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_37]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_38]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_39]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_40]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_41]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_42]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_43]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_44]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_45]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_46]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_47]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_48]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_49]
+Server starting...
+Server receive thread started
+Server started
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_220]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_221]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_222]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_223]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_224]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_225]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_226]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_227]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_228]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_229]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_230]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_231]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_232]
+Server starting...
+Server receive thread started
+Server started
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_363]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_364]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_365]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_366]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_367]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_368]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_369]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_370]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_371]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_372]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_373]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_374]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_375]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_376]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_377]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_378]
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_433]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_434]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_435]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_436]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_437]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_438]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_439]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_440]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_441]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_442]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_443]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_444]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_445]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_446]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_447]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_448]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_449]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_450]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_451]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_452]
+Server starting...
+Server receive thread started
+Server started
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_655]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_656]
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_1]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_2]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_3]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_4]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_5]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_6]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_7]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_8]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_9]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_10]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_11]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_12]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_13]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_14]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hui_15]
+Server starting...
+Server receive thread started
+Server started
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [привет]
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hello]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [can]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [you]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [sell]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [me]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [the]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [sword?]
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [Hello, friend!]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [Can you sell me the sword?]
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [hello]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [test message]
+Server receive thread receive data: 2 elements
+0: [MSG]
+1: [im writing]
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread receive data: 1 elements
+0: [EXIT]
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server receive thread stopped
+Server stopping...
+Server error: already stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server error: cannot bind socket
+Server stopping...
+Server error: already stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
+Server starting...
+Server receive thread started
+Server started
+Server stopping...
+Server receive thread stopped
+Server stopped
